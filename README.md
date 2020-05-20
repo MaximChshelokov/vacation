@@ -2,4 +2,4 @@
 Microservices study project
 
 
-[Project](../project/project.md)
+[Project](./project/project.md)
