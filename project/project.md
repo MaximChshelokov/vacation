@@ -1,5 +1,5 @@
 ### Project diagram
-![alt text](https://github.com/MaximChshelokov/vacation/diagram/vacation.png "Vacation diagram")
+![alt text](https://github.com/MaximChshelokov/vacation//blob/master/diagram/vacation.png "Vacation diagram")
 
 
 ### Domain and context.
