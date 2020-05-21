@@ -1,3 +1,7 @@
+### Project diagram
+![alt text](https://github.com/MaximChshelokov/vacation/diagram/vacation.png "Vacation diagram")
+
+
 ### Domain and context.
 
 **Создание и проведение запроса (на отпуск или компенсацию):**
