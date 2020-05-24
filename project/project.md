@@ -2,7 +2,7 @@
 ![alt text](../diagram/vacation.png "Vacation diagram")
 
 
-### Domain and context.
+### Domain and context
 
 **Создание и проведение запроса (на отпуск или компенсацию):**
 
@@ -36,7 +36,7 @@
 
 Фильтр
 
-### User-cases.
+### User stories
 
 Пользователь заводит запрос. Его одобряет менеджер. Пользователь отгуливает отпуск.
 
